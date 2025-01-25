@@ -90,7 +90,7 @@
               玩家可以試著升級到<nuxt-link to="/techs/age/Imperial_Age"
                 >帝王時代</nuxt-link
               >，建造一個<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link
-              >。200年後也會勝利。
+              >。200年後也會勝利(決定版已無法升級時代)。
             </li>
             <li>
               然而，與這場關卡中的其他劇情任務一樣，取得勝利的替代路線也要慢得多。
